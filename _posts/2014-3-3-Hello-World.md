@@ -1,8 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Journey to Data Science
 ---
-
+as a profession who spent most of his life in natural science field in doing scientfic research landing to data science is an easy and smart move.though mastering programming languages like python looks scary it is not  
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
